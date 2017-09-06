@@ -1,0 +1,1398 @@
+  "ATR_IS_GROUP_SHADE" Boolean "false",
+    "ATR_Is_ShopTheLook" Boolean "false",
+    "ATR_Item_Gender" Integer "1",
+    "ATR_Item_Risk" Boolean "false",
+    "ATR_MediaRich" Boolean "false",
+    "ATR_NonSaleItem" Boolean "false",
+    "ATR_Off5th_Item" Boolean "false",
+    "ATR_OffPrice_Item" Boolean "false",
+    "ATR_PD_RestrictedShipType_Text" String "True",
+    "ATR_PD_RestrictedWarning_Text" String "False",
+    "ATR_Personalizable" Boolean "false",
+    "ATR_Primary_Parent_Color" String "Multicolor",
+    "ATR_ProductCopy" String "Originally created in 1934, this legendary lavender, vanilla and amber accord infused with a heart of fresh green tones continues to inspire an authentic and timeless masculine scent. 2.6 oz. Imported.",
+    "ATR_ProductShortDescription" String "Pour un Homme Deodorant Stick-2.6 oz.",
+    "ATR_PurchaseRestriction" String "1",
+    "ATR_RTV" Boolean "false",
+    "ATR_Returnable" Boolean "true",
+    "ATR_ReviewScore" Integer "0",
+    "ATR_Reviewable" Boolean "true",
+    "ATR_SL_old" Boolean "false",
+    "ATR_SL_preview" Boolean "false",
+    "ATR_SL_web_ok" Boolean "true",
+    "ATR_SellOff" Boolean "false",
+    "ATR_SignatureRequired_Type" String "Adult",
+    "ATR_Size" String "One Size",
+    "ATR_Tax_code" String "9300",
+    "ATR_TotalReviewCount" Integer "0",
+    "ATR_USPS_Ship_ok" Boolean "true",
+    "ATR_US_STDSize" String "One Size",
+    "ATR_Web_Only_Markdown" Boolean "false",
+    "ATR_Zoom" Boolean "true",
+    "ATR_aobOff5thCom" Boolean "false",
+    "ATR_aobOff5thComFfix" Boolean "false",
+    "ATR_aobSaksCom" Boolean "false",
+    "ATR_aobSaksComFfix" Boolean "false",
+    "ATR_class" Integer "81",
+    "ATR_department" Integer "409",
+    "ATR_division" Integer "3",
+    "ATR_fitModelRequired" Boolean "false",
+    "ATR_full_look" Boolean "false",
+    "ATR_group" Integer "38",
+    "ATR_headless_ind" Boolean "false",
+    "ATR_hideFromEndeca" Boolean "false",
+    "ATR_hideFromSearch" Boolean "false",
+    "ATR_isDesignerItem" Boolean "false",
+    "ATR_isShopRunner" Boolean "false",
+    "ATR_lifestylecontemporary" Boolean "false",
+    "ATR_lifestylemodern" Boolean "false",
+    "ATR_lifestylepremier" Boolean "false",
+    "ATR_marked_down" Integer "0",
+    "ATR_no_discount" Boolean "false",
+    "ATR_outletItem" Boolean "false",
+    "ATR_purchaselimit" Integer "5",
+    "ATR_readyForProd" Boolean "false",
+    "ATR_refinementProductType1" String "Deodorant",
+    "ATR_waitlist" Boolean "false",
+    "__id" Long "1689949373151335",
+    "__parentId" Long "845524442211925",
+    "__pubVersion" Integer "49",
+    "__type" Integer "6",
+    "__version" Integer "2",
+    "attrUptodate" Boolean "true",
+    "backorderable" Boolean "false",
+    "folderID" Long "845524442211925",
+    "itemType" null,
+    "longDesc" null,
+    "path" String "/Products/PRESTIGEFRAGRANCES/CARON/0500019461284/3387952043901",
+    "productCode" String "0500019461284",
+    "pubVersion" Integer "37",
+    "shortDesc" String "PH DEO STICK",
+    "skuCode" String "3387952043901",
+    "skuReserveQuantity" null,
+    "sku_id" Long "1689949373151335",
+    "sku_parent_id" Long "845524442211925",
+    "status_cd" String "A",
+    "upc" null
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG MicroService null - PRICE_SERVICE URL = http://hd5qdkr40lx.digital.hbc.com:8080/v1/price-service - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG SFAPriceBuilder null - forReserveInStore: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG SFAPriceBuilder null - saksSkuWrapper.isFindInStoreAvailable(): false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG SFAPriceBuilder null - false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG BMUtils null - BMUtils isPrivateSaleOn ? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG PdsTaglib null - PdsTagLib Request Header sent to Glassie {Upgrade-Insecure-Requests=1, X-WebLogic-KeepAliveSecs=30, Accept-Language=en-US,en;q=0.8, Cookie=sr_cr4_exp=1; sr_browser_id=647348b6-0d3c-4489-9f74-1e4ca991ddc7; EndecaNumberOfItems=LOW; __cmbU=ABJeb1-nvyocsr3IaZc1STNrUXfoJiHdaZI6XqycC9p3GLzy1IF2-Ru0yERjB_YSxqMXAdZ_xitWLWQQVu9fpIvekpWMJDBrtA; sr_cr4_exp_popup=true; AccountId=2253998836941602; sr_pp_exp=4; BTgroup=vendorC; _ga=GA1.2.1933479171.1503343741; BROWSER_GUID=430645a8-a54a-4411-a5f1-0542c24f57fa; saksBrowserWarnings=true; AMCVS_5B7B123F5245ADFC0A490D45%40AdobeOrg=1; E4X_COUNTRY=US; E4X_CURRENCY=USD; AMCV_5B7B123F5245ADFC0A490D45%40AdobeOrg=-227196251%7CMCIDTS%7C17415%7CMCMID%7C03368220605273316774493423055058416603%7CMCAAMLH-1505227321%7C7%7CMCAAMB-1505323025%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1504725425s%7CNONE%7CMCAID%7CNONE; Cart=2253998836942022; zipCode=; saksBagNumberOfItems=0; sr_pik_session_id=f406c387-1c73-3fd6-fb0e-b8d5239a8177; v7=1504718246407; rr_rcs=eF4NyLsNgDAMBcAmFbs8KbafPyMwB4kiUdAB88OV19ozdvO1aojDLAJ0XYhxBMQ8SziL5Ha99zm7UP_3zpRSr-iJMEA-epQQ2g; JSESSIONID=jLycZwtV70JV9XqVmGPPQCJTQ2PPtKnrp7yVsnNn2wWZQ8fqWvpL!-2052864943; mbox=check#true#1504718322|session#7c47e660f80d4423835955425b249807#1504720122; EML1145A=TRUE; sessionID=15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ; pn=24; v0=1; s_cc=true; s_ppvl=lt.com%253Abeauty%2C29%2C29%2C3162%2C1366%2C662%2C1366%2C768%2C1%2CP; s_ppv=lt.com%253Abeauty%2C29%2C29%2C3162%2C1366%2C662%2C1366%2C768%2C1%2CP; c38=lt.com%3Abeauty; s_sq=ltdev%3D%2526c.%2526a.%2526activitymap.%2526page%253Dlt.com%25253Abeauty%2526link%253DCaron%252520-%252520Pour%252520un%252520Homme%252520Deodorant%252520Stick-2.6%252520oz.%2526region%253Dproduct-0500019461284%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dlt.com%25253Abeauty%2526pidt%253D1%2526oid%253Dhttp%25253A%25252F%25252Fqaslot40.digital.hbc.com%25252Fmain%25252FProductDetail.jsp%25253FFOLDER%2525253C%2525253Efolder_id%25253D2534374302023743%252526PRODUC%2526ot%253DA, Host=qaslot40.digital.hbc.com, Proxy-Client-IP=10.233.138.188, Accept-Encoding=gzip, deflate, X-Forwarded-For=10.233.138.188, X-WebLogic-Force-JVMID=-2052864943, User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36, Connection=Keep-Alive, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG PdsTagLibUtils null - prefix url found: http://hd5qdkr40lx.digital.hbc.com:3001/ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG PdsTagLibUtils null - Environment variable url: product_fragment_no_libs/ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG PdsTaglib null - pdp-product-fragment-url: http://hd5qdkr40lx.digital.hbc.com:3001/product_fragment_no_libs/0500019461284 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG PdsTaglib null - PDP lookup value in website properties: PDP_GLASSIE_TIMEOUT_PREPROD - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [9b6eda2f-a9fd-4673-818c-33ee01caccbf] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/main/ProductDetail.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Update Top Nav Selected Category for FolderId - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdParam -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - rootTopNavFolderId -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [e5adbbab-89bb-4eb5-aa68-7185800e5aef] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/main/ProductDetail.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Update Top Nav Selected Category for FolderId - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdParam -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - rootTopNavFolderId -> 2534374302023743 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG MicroService null - BLOOMREACH_SERVICE URL = http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BloomreachTagLib null - endPointUrl: http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BloomreachTagLib null - request body:
+{"ref":"","prod_id":"0500019461284","user_agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36","url":"http://qaslot40.digital.hbc.com/main/ProductDetail.jsp?FOLDER%3C%3Efolder_id\u003d2534374302023743\u0026PRODUCT%3C%3Eprd_id\u003d845524442211925\u0026R\u003d3387952043901\u0026P_name\u003dCaron\u0026N\u003d302023743\u0026bmUID\u003dlUWaHrP","ptype":"product"} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] ERROR RestClientApacheImpl null - POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502! - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] ERROR RestClientApacheImpl null - Request headers were:
+Content-type:application/json
+Accept:application/json
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] ERROR RestClientApacheImpl null - Response headers were:
+Server:openresty
+Date:Wed, 06 Sep 2017 17:17:45 GMT
+Content-Type:text/html
+Content-Length:537
+Connection:keep-alive
+ETag:"59934460-219"
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] ERROR RestClientApacheImpl null - Response body was: <!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] ERROR BloomreachTagLib null - Error getting response from 'http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget': POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502! - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG BloomreachTagLib null - java.lang.Exception: POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502!
+        at com.s5a.rest.RestClientApacheImpl.callJSONPost(RestClientApacheImpl.java:242)
+        at com.s5a.rest.RestClientApacheImpl.postJson(RestClientApacheImpl.java:110)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.makeBloomreachApiCall(BloomreachTagLib.java:152)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.getBloomreachHTML(BloomreachTagLib.java:118)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.getBloomreachHTML(BloomreachTagLib.java:107)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.renderBloomreach(BloomreachTagLib.java:95)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.doStartTag(BloomreachTagLib.java:84)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jsp__tag226(__glassie_pdp.java:14130)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jsp__tag222(__glassie_pdp.java:13987)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jspService(__glassie_pdp.java:4476)
+        at weblogic.servlet.jsp.JspBase.service(JspBase.java:34)
+        at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:227)
+        at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:125)
+        at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:292)
+        at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:26)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.web.SaksFilterBase.doFilter(SaksFilterBase.java:29)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:345)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:246)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.include(RequestDispatcherImpl.java:432)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:379)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.DefaultRequestHandler.executeJSPFilter(DefaultRequestHandler.java:96)
+        at com.bluemartini.html.IncludeRequestHandler.executeJSP(IncludeRequestHandler.java:223)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:346)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.include(RequestDispatcherImpl.java:432)
+        at weblogic.servlet.jsp.PageContextImpl.include(PageContextImpl.java:163)
+        at com.s5a.productdetail.taglibs.PdsTaglib.makeRequest(PdsTaglib.java:917)
+        at com.s5a.productdetail.taglibs.PdsTaglib.doStartTag(PdsTaglib.java:202)
+        at com.bluemartini._jsp._templates._main.__productdetail._jsp__tag38(__productdetail.java:2225)
+        at com.bluemartini._jsp._templates._main.__productdetail._jspService(__productdetail.java:795)
+        at weblogic.servlet.jsp.JspBase.service(JspBase.java:34)
+        at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:227)
+        at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:125)
+        at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:292)
+        at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:26)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.web.SaksFilterBase.doFilter(SaksFilterBase.java:29)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:345)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:246)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.forward(RequestDispatcherImpl.java:251)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:381)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.DefaultRequestHandler.executeJSPFilter(DefaultRequestHandler.java:96)
+        at com.bluemartini.html.StandardRequestHandler.executeJSP(StandardRequestHandler.java:687)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:346)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.filter.PrometheusRequestFilter.doFilter(PrometheusRequestFilter.java:54)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:3496)
+        at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+        at weblogic.security.service.SecurityManager.runAs(Unknown Source)
+        at weblogic.servlet.internal.WebAppServletContext.securedExecute(WebAppServletContext.java:2180)
+        at weblogic.servlet.internal.WebAppServletContext.execute(WebAppServletContext.java:2086)
+        at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1406)
+        at weblogic.work.ExecuteThread.execute(ExecuteThread.java:201)
+        at weblogic.work.ExecuteThread.run(ExecuteThread.java:173)
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal FullSite SignalTagLib - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalUtils null - isPostMethodRequest false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal Full Site: Before Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalFullSiteProductPageHelperImpl null - country value from cookie:US - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null -  handle()  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - isMobile false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - isProduction false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - csrOrComxCookie null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalVisitorHelperImpl null - [com.s5a.signal.helper.impl.SignalVisitorHelperImpl] - BO(USER_ACCOUNT) {
+    "__type" Integer "8",
+    "createDt" DateTime "2017-09-06 17:17:25",
+    "createdBy" Long "2256197860196353",
+    "customerNum" String "1222",
+    "detailed" Boolean "true",
+    "indHasGiftRegistry" Boolean "false",
+    "loginCount" Integer "1",
+    "modifiedBy" Long "2256197860196353",
+    "modifyDt" DateTime "2017-09-06 17:17:25",
+    "optOut" Boolean "false",
+    "passwordExpired" Boolean "false",
+    "path" String "/Business Entities/18eeb55a3557144bd8e03989d535af60/null",
+    "status_cd" String "A",
+    "type_cd" String "B2C",
+    "usa_default_uso_id" Long "1223",
+    "usa_id" Long "2253998836942022",
+    "usa_usf_id" Long "14357422835499009",
+    "userRandomNum" Double "0.9022510556003921"
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalVisitorHelperImpl null -  signUpEmail  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal Full Site: After Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Writing to session jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SaksUtil null -  isPureProductionEnv() :  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG PrivateSaleCsrConfig null - This is not CSR or STORE associate condition, should NOT SHOW button to toggle between private price and regular price. - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal FullSite SignalTagLib - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalUtils null - isPostMethodRequest false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal Full Site: Before Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalFullSiteProductPageHelperImpl null - country value from cookie:US - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null -  handle()  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - isMobile false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - isProduction false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalSiteHelperImpl null - csrOrComxCookie null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalVisitorHelperImpl null - [com.s5a.signal.helper.impl.SignalVisitorHelperImpl] - BO(USER_ACCOUNT) {
+    "__type" Integer "8",
+    "createDt" DateTime "2017-09-06 17:17:25",
+    "createdBy" Long "2256197860196353",
+    "customerNum" String "1222",
+    "detailed" Boolean "true",
+    "indHasGiftRegistry" Boolean "false",
+    "loginCount" Integer "1",
+    "modifiedBy" Long "2256197860196353",
+    "modifyDt" DateTime "2017-09-06 17:17:25",
+    "optOut" Boolean "false",
+    "passwordExpired" Boolean "false",
+    "path" String "/Business Entities/18eeb55a3557144bd8e03989d535af60/null",
+    "status_cd" String "A",
+    "type_cd" String "B2C",
+    "usa_default_uso_id" Long "1223",
+    "usa_id" Long "2253998836942022",
+    "usa_usf_id" Long "14357422835499009",
+    "userRandomNum" Double "0.9022510556003921"
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalVisitorHelperImpl null -  signUpEmail  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Signal Full Site: After Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:17:45 [b0f293d0-101f-48f7-8bf7-46695ea079bc] DEBUG SignalTaglib null - Writing to session jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/search/lookahead_json.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  Reset the top nav highlight - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:50 [871e1c66-2acd-4da0-b20d-3ad850acf707] DEBUG EndecaConstants null - AND(OR(P_in_stock:1,P_in_stock_store:1),P_hide_from_catalog:0,P_special_brand:0) - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] INFO  SaksLoggingFilter null - Request received for form - endeca_search_form_one - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/search/EndecaSearch.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam ->  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  Reset the top nav highlight - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchProductTag null - [com.s5a.endeca.taglib.EndecaSearchProductTag] - >>>>> START EndecaSearchProductTag - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG SaksCookieManager null - SaksCookieManager:getCookieValue - cookieValue LOW - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchController null - Parsing request content ... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchController null - params are : com.s5a.endeca.to.EndecaParamsTO@2d9d36aa - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchController null - Initializing endeca preferences... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaPreferences null - DNA {
+    "endecahost" String "qaslot40.digital.hbc.com",
+    "endecaport" String "16000",
+    "endecaloghost" String "qaslot40.digital.hbc.com",
+    "endecalogport" String "16011",
+    "endecaprevhost" String "qaslot40.digital.hbc.com",
+    "endecaprevport" String "8000",
+    "endecaprevurl" String "none"
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaPreferences null - Loading DNA configurations for EndecaPreferences - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchProductTag null -  EndecaSearchProductTag isPrivateSaleOn false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [fe382663-5647-45fc-b48a-d16b8c9f3864] DEBUG EndecaSearchProductTag null -  EndecaSearchProductTag endecaParams.isMobileDomain false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/main/ProductDetail.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Update Top Nav Selected Category for FolderId - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - rootTopNavFolderId -> null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Parent Folder ID not found to highlight top nav for folderId 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTaglib null - doStartTag - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG WaitListEligibleServiceImpl null - Check if this product is waitlistable 0500016162687 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG WaitListEligibleServiceImpl null - Product is following waitlist fullsite rules - Is waitlist? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Get inventory details... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - Adding SKU=3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - Adding BO(SKU_INVENTORY_CHECKPOINT) {
+    "item_id" String "0500016162687",
+    "sku_id" Long "3700194721602",
+    "wh_backorder_qty" Integer "0",
+    "wh_po_date" DateTime "9999-01-01 05:00:00",
+    "wh_po_number" Integer "0",
+    "wh_sellable_qty" Integer "9994"
+}
+ to skuInventoryList - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - Adding SKU=3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - Adding BO(SKU_INVENTORY_CHECKPOINT) {
+    "item_id" String "0500016162687",
+    "sku_id" Long "3700194721619",
+    "wh_backorder_qty" Integer "0",
+    "wh_po_date" DateTime "9999-01-01 05:00:00",
+    "wh_po_number" Integer "0",
+    "wh_sellable_qty" Integer "9985"
+}
+ to skuInventoryList - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - variantInventoryList.size before populateStoreInventory: 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - upcList.size(): 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - sql: select SKU_CODE, UPC_CODE, STORE_ID, ONHAND_INVENTORY, RECEIVED_DT, SHIP_FROM_STORE_SAFETY_STOCK, SHIP_FROM_STORE_STATUS, FIND_IN_STORE_SAFETY_STOCK, FIND_IN_STORE_STATUS from store_inventory where upc_code in ('3700194721602', '3700194721619') - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - variantInventoryList.size after populateStoreInventory: 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - upcList.size(): 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - sql: select SKU_CODE, UPC_CODE, STORE_ID, ONHAND_INVENTORY, RECEIVED_DT, SHIP_FROM_STORE_SAFETY_STOCK, SHIP_FROM_STORE_STATUS, FIND_IN_STORE_SAFETY_STOCK, FIND_IN_STORE_STATUS from store_inventory where upc_code in ('3700194721619', '3700194721602') - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - variantInventoryList.size populateStoreInventoryForThunderItems: 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - upcList.size(): 2 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG OracleInventoryDAO null - [com.s5a.inventory.dao.OracleInventoryDAO] - sql: select sr_sku_code, sr_qty from saks_reservations where sr_reserve_dt > (sysdate - ?) and sr_sku_code in ('3700194721602', '3700194721619') - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG InventoryRulesApplicator null - time taken to apply onera inventory rules: 0 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG InventoryRulesApplicator null - time taken to apply onera inventory rules: 0 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Creating SaksSkuWrappers with inventory... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - saksSkuWrappers is not null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Check if this skuCode can be added to saksSkuWrappers list. skuCode -> 3700194721619, variantCode -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Check if this skuCode can be added to saksSkuWrappers list. skuCode -> 3700194721619, variantCode -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - variantInventory: upcCode: 3700194721619
+skuCode:
+warehouseSellableQty: 9985
+warehouseBackOrderQty: 0
+warehousePONumber: 0
+earliestPODate: BMCalendar[kind=DATETIME,time=253370782800000,fields=9999-00-01 05:00:00.000,ERA=1,WEEK_OF_YEAR=1,WEEK_OF_MONTH=1,DAY_OF_YEAR=1,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=5,ZONE_OFFSET=0,DST_OFFSET=0,zone=UTC]
+latestPODate: BMCalendar[kind=DATETIME,time=253370782800000,fields=9999-00-01 05:00:00.000,ERA=1,WEEK_OF_YEAR=1,WEEK_OF_MONTH=1,DAY_OF_YEAR=1,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=5,ZONE_OFFSET=0,DST_OFFSET=0,zone=UTC]
+actualSellableQty: 0
+findInStoreQty: 0
+shipFromStoreQty: 0
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Adding upc to saksSkuWrappers list -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Check if this skuCode can be added to saksSkuWrappers list. skuCode -> 3700194721602, variantCode -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - variantInventory: upcCode: 3700194721602
+skuCode:
+warehouseSellableQty: 9994
+warehouseBackOrderQty: 0
+warehousePONumber: 0
+earliestPODate: BMCalendar[kind=DATETIME,time=253370782800000,fields=9999-00-01 05:00:00.000,ERA=1,WEEK_OF_YEAR=1,WEEK_OF_MONTH=1,DAY_OF_YEAR=1,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=5,ZONE_OFFSET=0,DST_OFFSET=0,zone=UTC]
+latestPODate: BMCalendar[kind=DATETIME,time=253370782800000,fields=9999-00-01 05:00:00.000,ERA=1,WEEK_OF_YEAR=1,WEEK_OF_MONTH=1,DAY_OF_YEAR=1,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=5,ZONE_OFFSET=0,DST_OFFSET=0,zone=UTC]
+actualSellableQty: 0
+findInStoreQty: 0
+shipFromStoreQty: 0
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Adding upc to saksSkuWrappers list -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Check if this skuCode can be added to saksSkuWrappers list. skuCode -> 3700194721602, variantCode -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Sorting the saksSkuWrappers list... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isProductOutOfStock? - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isExcludedOrNotAvailable? returning false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - sku code: 3700194721619, active: true, sold out: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isOutOfStock return 'false' since there is at least one active sku avaiable - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isFindInStoreAvailable? - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isExcludedOrNotAvailable? returning false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - sku code: 3700194721619, active: true, sold out: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - sku code: 3700194721602, active: true, sold out: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isFindInStoreAvailable? returning false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - setInventoryMessages... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isOutOfStock? - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isOutOfStock flag -> false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - validProduct? true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isSoldOut? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isExcludedOrNotAvailable? returning false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - sku code: 3700194721619, store on hand inventory: 0, active: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - sku code: 3700194721602, store on hand inventory: 0, active: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - return false from hasStoreInventory  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - storeInventoryMessage? FIND IN STORE service is not available for this item. - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - processInventoryMessages... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isOutOfStock? - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isOutOfStock flag -> false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - populateFindInStoreMessage... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - isShowFindInStoreLink return 'false' since no other condition satisfies - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - findInStoreMessage ->  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - getColorizedImageItems.. - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - skuCode -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - SaksSKU Constructor using String skuID - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku code is -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku returned was -> BO(SKU) {
+    "ATR_Alternate" Integer "0",
+    "ATR_Backorderable" Boolean "false",
+    "ATR_BrandName" String "Kiehl's Since 1851",
+    "ATR_Color" String "NO COLOR",
+    "ATR_Colorization_Ind" Boolean "false",
+    "ATR_ComplexSwatch" Boolean "true",
+    "ATR_DisplayPlayVideo" Boolean "false",
+    "ATR_DisplayQuickLook" Boolean "true",
+    "ATR_DropShip_Agent" String "VENDORNET",
+    "ATR_DropShip_Ignore_Inv_Feed" Boolean "false",
+    "ATR_DropShip_Ind" Boolean "false",
+    "ATR_ExtendedSize" Boolean "false",
+    "ATR_FFEncore" Boolean "false",
+    "ATR_Fill_Location" Integer "1",
+    "ATR_GWP_Flag" Boolean "false",
+    "ATR_GiftWrap_Eligible" Boolean "true",
+    "ATR_HidePrice" Boolean "false",
+    "ATR_Hide_In_SBC" Boolean "false",
+    "ATR_Hide_SaksSuggests" Boolean "false",
+    "ATR_High_Risk_Item" Boolean "false",
+    "ATR_IS_GROUP_SHADE" Boolean "false",
+    "ATR_Is_ShopTheLook" Boolean "false",
+    "ATR_Item_Gender" Integer "1",
+    "ATR_Item_Risk" Boolean "false",
+    "ATR_MediaRich" Boolean "false",
+    "ATR_NonSaleItem" Boolean "false",
+    "ATR_Off5th_Item" Boolean "false",
+    "ATR_OffPrice_Item" Boolean "false",
+    "ATR_PD_RestrictedWarning_Text" String "False",
+    "ATR_Personalizable" Boolean "false",
+    "ATR_Pick_Up_Allowed_Ind" Boolean "true",
+    "ATR_ProductCopy" String "This soothing facial astringent and balancing lotion is a unique, effective formulation for oily and very oily skin types. Especially effective for use on oily-prone areas. Excellent for after shaving. Made in USA.",
+    "ATR_ProductShortDescription" String "Blue Astringent Herbal Lotion",
+    "ATR_PurchaseRestriction" String "1",
+    "ATR_RTV" Boolean "false",
+    "ATR_Returnable" Boolean "true",
+    "ATR_ReviewScore" Integer "0",
+    "ATR_Reviewable" Boolean "true",
+    "ATR_SL_old" Boolean "false",
+    "ATR_SL_preview" Boolean "false",
+    "ATR_SL_web_ok" Boolean "true",
+    "ATR_SellOff" Boolean "false",
+    "ATR_SignatureRequired_Type" String "Adult",
+    "ATR_Size" String "16.9 OZ.",
+    "ATR_Tax_code" String "9300",
+    "ATR_TotalReviewCount" Integer "0",
+    "ATR_USPS_Ship_ok" Boolean "true",
+    "ATR_US_STDSize" String "8.5 oz. & Above",
+    "ATR_Web_Featured_Color" String "3700194721602",
+    "ATR_Web_Only_Markdown" Boolean "false",
+    "ATR_Zoom" Boolean "true",
+    "ATR_aobOff5thCom" Boolean "false",
+    "ATR_aobOff5thComFfix" Boolean "false",
+    "ATR_aobSaksCom" Boolean "false",
+    "ATR_aobSaksComFfix" Boolean "false",
+    "ATR_class" Integer "30",
+    "ATR_department" Integer "883",
+    "ATR_division" Integer "3",
+    "ATR_fitModelRequired" Boolean "false",
+    "ATR_full_look" Boolean "false",
+    "ATR_group" Integer "30",
+    "ATR_headless_ind" Boolean "false",
+    "ATR_hideFromEndeca" Boolean "false",
+    "ATR_hideFromSearch" Boolean "false",
+    "ATR_isDesignerItem" Boolean "false",
+    "ATR_isShopRunner" Boolean "false",
+    "ATR_lifestylecontemporary" Boolean "false",
+    "ATR_lifestylemodern" Boolean "false",
+    "ATR_lifestylepremier" Boolean "false",
+    "ATR_marked_down" Integer "0",
+    "ATR_no_discount" Boolean "false",
+    "ATR_outletItem" Boolean "false",
+    "ATR_purchaselimit" Integer "5",
+    "ATR_readyForProd" Boolean "true",
+    "ATR_refCategory1" String "Beauty",
+    "ATR_refinementProductType1" String "Toners",
+    "ATR_vendor_style_number" String "1402161",
+    "ATR_waitlist" Boolean "false",
+    "__id" Long "1689949371899609",
+    "__parentId" Long "845524442017487",
+    "__pubVersion" Integer "49",
+    "__type" Integer "6",
+    "__version" Integer "2",
+    "attrUptodate" Boolean "true",
+    "backorderable" Boolean "false",
+    "folderID" Long "845524442017487",
+    "itemType" null,
+    "longDesc" null,
+    "path" String "/Products/KIEHLSSINCE185130/FACIALSKINCARE/0500016162687/3700194721619",
+    "productCode" String "0500016162687",
+    "pubVersion" Integer "43",
+    "shortDesc" String "Kiehl'S Since 1851 Blue Astringent Herbal Lotion",
+    "skuCode" String "3700194721619",
+    "skuReserveQuantity" null,
+    "sku_id" Long "1689949371899609",
+    "sku_parent_id" Long "845524442017487",
+    "status_cd" String "A",
+    "upc" null
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Adding colorized image... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - skuCode -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - SaksSKU Constructor using String skuID - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku code is -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku returned was -> BO(SKU) {
+    "ATR_Alternate" Integer "0",
+    "ATR_Backorderable" Boolean "false",
+    "ATR_BrandName" String "Kiehl's Since 1851",
+    "ATR_Color" String "NO COLOR",
+    "ATR_Colorization_Ind" Boolean "false",
+    "ATR_ComplexSwatch" Boolean "true",
+    "ATR_DisplayPlayVideo" Boolean "false",
+    "ATR_DisplayQuickLook" Boolean "true",
+    "ATR_DropShip_Agent" String "VENDORNET",
+    "ATR_DropShip_Ignore_Inv_Feed" Boolean "false",
+    "ATR_DropShip_Ind" Boolean "false",
+    "ATR_ExtendedSize" Boolean "false",
+    "ATR_FFEncore" Boolean "false",
+    "ATR_Fill_Location" Integer "1",
+    "ATR_GWP_Flag" Boolean "false",
+    "ATR_GiftWrap_Eligible" Boolean "true",
+    "ATR_HidePrice" Boolean "false",
+    "ATR_Hide_In_SBC" Boolean "false",
+    "ATR_Hide_SaksSuggests" Boolean "false",
+    "ATR_High_Risk_Item" Boolean "false",
+    "ATR_IS_GROUP_SHADE" Boolean "false",
+    "ATR_Is_ShopTheLook" Boolean "false",
+    "ATR_Item_Gender" Integer "1",
+    "ATR_Item_Risk" Boolean "false",
+    "ATR_MediaRich" Boolean "false",
+    "ATR_NonSaleItem" Boolean "false",
+    "ATR_Off5th_Item" Boolean "false",
+    "ATR_OffPrice_Item" Boolean "false",
+    "ATR_PD_RestrictedWarning_Text" String "False",
+    "ATR_Personalizable" Boolean "false",
+    "ATR_Pick_Up_Allowed_Ind" Boolean "true",
+    "ATR_ProductCopy" String "This soothing facial astringent and balancing lotion is a unique, effective formulation for oily and very oily skin types. Especially effective for use on oily-prone areas. Excellent for after shaving. Made in USA.",
+    "ATR_ProductShortDescription" String "Blue Astringent Herbal Lotion",
+    "ATR_PurchaseRestriction" String "1",
+    "ATR_RTV" Boolean "false",
+    "ATR_Returnable" Boolean "true",
+    "ATR_ReviewScore" Integer "0",
+    "ATR_Reviewable" Boolean "true",
+    "ATR_SL_old" Boolean "false",
+    "ATR_SL_preview" Boolean "false",
+    "ATR_SL_web_ok" Boolean "true",
+    "ATR_SellOff" Boolean "false",
+    "ATR_SignatureRequired_Type" String "Adult",
+    "ATR_Size" String "8.4 OZ.",
+    "ATR_Tax_code" String "9300",
+    "ATR_TotalReviewCount" Integer "0",
+    "ATR_USPS_Ship_ok" Boolean "true",
+    "ATR_US_STDSize" String "6.8-8.5 oz.",
+    "ATR_Web_Featured_Color" String "3700194721602",
+    "ATR_Web_Only_Markdown" Boolean "false",
+    "ATR_Zoom" Boolean "true",
+    "ATR_aobOff5thCom" Boolean "false",
+    "ATR_aobOff5thComFfix" Boolean "false",
+    "ATR_aobSaksCom" Boolean "false",
+    "ATR_aobSaksComFfix" Boolean "false",
+    "ATR_class" Integer "30",
+    "ATR_department" Integer "883",
+    "ATR_division" Integer "3",
+    "ATR_fitModelRequired" Boolean "false",
+    "ATR_full_look" Boolean "false",
+    "ATR_group" Integer "30",
+    "ATR_headless_ind" Boolean "false",
+    "ATR_hideFromEndeca" Boolean "false",
+    "ATR_hideFromSearch" Boolean "false",
+    "ATR_isDesignerItem" Boolean "false",
+    "ATR_isShopRunner" Boolean "false",
+    "ATR_lifestylecontemporary" Boolean "false",
+    "ATR_lifestylemodern" Boolean "false",
+    "ATR_lifestylepremier" Boolean "false",
+    "ATR_marked_down" Integer "0",
+    "ATR_no_discount" Boolean "false",
+    "ATR_outletItem" Boolean "false",
+    "ATR_purchaselimit" Integer "5",
+    "ATR_readyForProd" Boolean "true",
+    "ATR_refCategory1" String "Beauty",
+    "ATR_refinementProductType1" String "Toners",
+    "ATR_vendor_style_number" String "1402161",
+    "ATR_waitlist" Boolean "false",
+    "__id" Long "1689949371899610",
+    "__parentId" Long "845524442017487",
+    "__pubVersion" Integer "49",
+    "__type" Integer "6",
+    "__version" Integer "2",
+    "attrUptodate" Boolean "true",
+    "backorderable" Boolean "false",
+    "folderID" Long "845524442017487",
+    "itemType" null,
+    "longDesc" null,
+    "path" String "/Products/KIEHLSSINCE185130/FACIALSKINCARE/0500016162687/3700194721602",
+    "productCode" String "0500016162687",
+    "pubVersion" Integer "43",
+    "shortDesc" String "Kiehl'S Since 1851 Blue Astringent Herbal Lotion",
+    "skuCode" String "3700194721602",
+    "skuReserveQuantity" null,
+    "sku_id" Long "1689949371899610",
+    "sku_parent_id" Long "845524442017487",
+    "status_cd" String "A",
+    "upc" null
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - getColorizedImageItemsNoInventoryCheck.. - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - skuCode -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - SaksSKU Constructor using String skuID - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku code is -> 3700194721619 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku returned was -> BO(SKU) {
+    "ATR_Alternate" Integer "0",
+    "ATR_Backorderable" Boolean "false",
+    "ATR_BrandName" String "Kiehl's Since 1851",
+    "ATR_Color" String "NO COLOR",
+    "ATR_Colorization_Ind" Boolean "false",
+    "ATR_ComplexSwatch" Boolean "true",
+    "ATR_DisplayPlayVideo" Boolean "false",
+    "ATR_DisplayQuickLook" Boolean "true",
+    "ATR_DropShip_Agent" String "VENDORNET",
+    "ATR_DropShip_Ignore_Inv_Feed" Boolean "false",
+    "ATR_DropShip_Ind" Boolean "false",
+    "ATR_ExtendedSize" Boolean "false",
+    "ATR_FFEncore" Boolean "false",
+    "ATR_Fill_Location" Integer "1",
+    "ATR_GWP_Flag" Boolean "false",
+    "ATR_GiftWrap_Eligible" Boolean "true",
+    "ATR_HidePrice" Boolean "false",
+    "ATR_Hide_In_SBC" Boolean "false",
+    "ATR_Hide_SaksSuggests" Boolean "false",
+    "ATR_High_Risk_Item" Boolean "false",
+    "ATR_IS_GROUP_SHADE" Boolean "false",
+    "ATR_Is_ShopTheLook" Boolean "false",
+    "ATR_Item_Gender" Integer "1",
+    "ATR_Item_Risk" Boolean "false",
+    "ATR_MediaRich" Boolean "false",
+    "ATR_NonSaleItem" Boolean "false",
+    "ATR_Off5th_Item" Boolean "false",
+    "ATR_OffPrice_Item" Boolean "false",
+    "ATR_PD_RestrictedWarning_Text" String "False",
+    "ATR_Personalizable" Boolean "false",
+    "ATR_Pick_Up_Allowed_Ind" Boolean "true",
+    "ATR_ProductCopy" String "This soothing facial astringent and balancing lotion is a unique, effective formulation for oily and very oily skin types. Especially effective for use on oily-prone areas. Excellent for after shaving. Made in USA.",
+    "ATR_ProductShortDescription" String "Blue Astringent Herbal Lotion",
+    "ATR_PurchaseRestriction" String "1",
+    "ATR_RTV" Boolean "false",
+    "ATR_Returnable" Boolean "true",
+    "ATR_ReviewScore" Integer "0",
+    "ATR_Reviewable" Boolean "true",
+    "ATR_SL_old" Boolean "false",
+    "ATR_SL_preview" Boolean "false",
+    "ATR_SL_web_ok" Boolean "true",
+    "ATR_SellOff" Boolean "false",
+    "ATR_SignatureRequired_Type" String "Adult",
+    "ATR_Size" String "16.9 OZ.",
+    "ATR_Tax_code" String "9300",
+    "ATR_TotalReviewCount" Integer "0",
+    "ATR_USPS_Ship_ok" Boolean "true",
+    "ATR_US_STDSize" String "8.5 oz. & Above",
+    "ATR_Web_Featured_Color" String "3700194721602",
+    "ATR_Web_Only_Markdown" Boolean "false",
+    "ATR_Zoom" Boolean "true",
+    "ATR_aobOff5thCom" Boolean "false",
+    "ATR_aobOff5thComFfix" Boolean "false",
+    "ATR_aobSaksCom" Boolean "false",
+    "ATR_aobSaksComFfix" Boolean "false",
+    "ATR_class" Integer "30",
+    "ATR_department" Integer "883",
+    "ATR_division" Integer "3",
+    "ATR_fitModelRequired" Boolean "false",
+    "ATR_full_look" Boolean "false",
+    "ATR_group" Integer "30",
+    "ATR_headless_ind" Boolean "false",
+    "ATR_hideFromEndeca" Boolean "false",
+    "ATR_hideFromSearch" Boolean "false",
+    "ATR_isDesignerItem" Boolean "false",
+    "ATR_isShopRunner" Boolean "false",
+    "ATR_lifestylecontemporary" Boolean "false",
+    "ATR_lifestylemodern" Boolean "false",
+    "ATR_lifestylepremier" Boolean "false",
+    "ATR_marked_down" Integer "0",
+    "ATR_no_discount" Boolean "false",
+    "ATR_outletItem" Boolean "false",
+    "ATR_purchaselimit" Integer "5",
+    "ATR_readyForProd" Boolean "true",
+    "ATR_refCategory1" String "Beauty",
+    "ATR_refinementProductType1" String "Toners",
+    "ATR_vendor_style_number" String "1402161",
+    "ATR_waitlist" Boolean "false",
+    "__id" Long "1689949371899609",
+    "__parentId" Long "845524442017487",
+    "__pubVersion" Integer "49",
+    "__type" Integer "6",
+    "__version" Integer "2",
+    "attrUptodate" Boolean "true",
+    "backorderable" Boolean "false",
+    "folderID" Long "845524442017487",
+    "itemType" null,
+    "longDesc" null,
+    "path" String "/Products/KIEHLSSINCE185130/FACIALSKINCARE/0500016162687/3700194721619",
+    "productCode" String "0500016162687",
+    "pubVersion" Integer "43",
+    "shortDesc" String "Kiehl'S Since 1851 Blue Astringent Herbal Lotion",
+    "skuCode" String "3700194721619",
+    "skuReserveQuantity" null,
+    "sku_id" Long "1689949371899609",
+    "sku_parent_id" Long "845524442017487",
+    "status_cd" String "A",
+    "upc" null
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - Adding colorized image... - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAProduct null - skuCode -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - SaksSKU Constructor using String skuID - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku code is -> 3700194721602 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SaksSKU null - The sku returned was -> BO(SKU) {
+    "ATR_Alternate" Integer "0",
+    "ATR_Backorderable" Boolean "false",
+    "ATR_BrandName" String "Kiehl's Since 1851",
+    "ATR_Color" String "NO COLOR",
+    "ATR_Colorization_Ind" Boolean "false",
+    "ATR_ComplexSwatch" Boolean "true",
+    "ATR_DisplayPlayVideo" Boolean "false",
+    "ATR_DisplayQuickLook" Boolean "true",
+    "ATR_DropShip_Agent" String "VENDORNET",
+    "ATR_DropShip_Ignore_Inv_Feed" Boolean "false",
+    "ATR_DropShip_Ind" Boolean "false",
+    "ATR_ExtendedSize" Boolean "false",
+    "ATR_FFEncore" Boolean "false",
+    "ATR_Fill_Location" Integer "1",
+    "ATR_GWP_Flag" Boolean "false",
+    "ATR_GiftWrap_Eligible" Boolean "true",
+    "ATR_HidePrice" Boolean "false",
+    "ATR_Hide_In_SBC" Boolean "false",
+    "ATR_Hide_SaksSuggests" Boolean "false",
+    "ATR_High_Risk_Item" Boolean "false",
+    "ATR_IS_GROUP_SHADE" Boolean "false",
+    "ATR_Is_ShopTheLook" Boolean "false",
+    "ATR_Item_Gender" Integer "1",
+    "ATR_Item_Risk" Boolean "false",
+    "ATR_MediaRich" Boolean "false",
+    "ATR_NonSaleItem" Boolean "false",
+    "ATR_Off5th_Item" Boolean "false",
+    "ATR_OffPrice_Item" Boolean "false",
+    "ATR_PD_RestrictedWarning_Text" String "False",
+    "ATR_Personalizable" Boolean "false",
+    "ATR_Pick_Up_Allowed_Ind" Boolean "true",
+    "ATR_ProductCopy" String "This soothing facial astringent and balancing lotion is a unique, effective formulation for oily and very oily skin types. Especially effective for use on oily-prone areas. Excellent for after shaving. Made in USA.",
+    "ATR_ProductShortDescription" String "Blue Astringent Herbal Lotion",
+    "ATR_PurchaseRestriction" String "1",
+    "ATR_RTV" Boolean "false",
+    "ATR_Returnable" Boolean "true",
+    "ATR_ReviewScore" Integer "0",
+    "ATR_Reviewable" Boolean "true",
+    "ATR_SL_old" Boolean "false",
+    "ATR_SL_preview" Boolean "false",
+    "ATR_SL_web_ok" Boolean "true",
+    "ATR_SellOff" Boolean "false",
+    "ATR_SignatureRequired_Type" String "Adult",
+    "ATR_Size" String "8.4 OZ.",
+    "ATR_Tax_code" String "9300",
+    "ATR_TotalReviewCount" Integer "0",
+    "ATR_USPS_Ship_ok" Boolean "true",
+    "ATR_US_STDSize" String "6.8-8.5 oz.",
+    "ATR_Web_Featured_Color" String "3700194721602",
+    "ATR_Web_Only_Markdown" Boolean "false",
+    "ATR_Zoom" Boolean "true",
+    "ATR_aobOff5thCom" Boolean "false",
+    "ATR_aobOff5thComFfix" Boolean "false",
+    "ATR_aobSaksCom" Boolean "false",
+    "ATR_aobSaksComFfix" Boolean "false",
+    "ATR_class" Integer "30",
+    "ATR_department" Integer "883",
+    "ATR_division" Integer "3",
+    "ATR_fitModelRequired" Boolean "false",
+    "ATR_full_look" Boolean "false",
+    "ATR_group" Integer "30",
+    "ATR_headless_ind" Boolean "false",
+    "ATR_hideFromEndeca" Boolean "false",
+    "ATR_hideFromSearch" Boolean "false",
+    "ATR_isDesignerItem" Boolean "false",
+    "ATR_isShopRunner" Boolean "false",
+    "ATR_lifestylecontemporary" Boolean "false",
+    "ATR_lifestylemodern" Boolean "false",
+    "ATR_lifestylepremier" Boolean "false",
+    "ATR_marked_down" Integer "0",
+    "ATR_no_discount" Boolean "false",
+    "ATR_outletItem" Boolean "false",
+    "ATR_purchaselimit" Integer "5",
+    "ATR_readyForProd" Boolean "true",
+    "ATR_refCategory1" String "Beauty",
+    "ATR_refinementProductType1" String "Toners",
+    "ATR_vendor_style_number" String "1402161",
+    "ATR_waitlist" Boolean "false",
+    "__id" Long "1689949371899610",
+    "__parentId" Long "845524442017487",
+    "__pubVersion" Integer "49",
+    "__type" Integer "6",
+    "__version" Integer "2",
+    "attrUptodate" Boolean "true",
+    "backorderable" Boolean "false",
+    "folderID" Long "845524442017487",
+    "itemType" null,
+    "longDesc" null,
+    "path" String "/Products/KIEHLSSINCE185130/FACIALSKINCARE/0500016162687/3700194721602",
+    "productCode" String "0500016162687",
+    "pubVersion" Integer "43",
+    "shortDesc" String "Kiehl'S Since 1851 Blue Astringent Herbal Lotion",
+    "skuCode" String "3700194721602",
+    "skuReserveQuantity" null,
+    "sku_id" Long "1689949371899610",
+    "sku_parent_id" Long "845524442017487",
+    "status_cd" String "A",
+    "upc" null
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG MicroService null - PRICE_SERVICE URL = http://hd5qdkr40lx.digital.hbc.com:8080/v1/price-service - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - forReserveInStore: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - saksSkuWrapper.isFindInStoreAvailable(): false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - forReserveInStore: false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - saksSkuWrapper.isFindInStoreAvailable(): false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG SFAPriceBuilder null - false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG BMUtils null - BMUtils isPrivateSaleOn ? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTaglib null - PdsTagLib Request Header sent to Glassie {Upgrade-Insecure-Requests=1, Cookie=sr_cr4_exp=1; sr_browser_id=647348b6-0d3c-4489-9f74-1e4ca991ddc7; EndecaNumberOfItems=LOW; __cmbU=ABJeb1-nvyocsr3IaZc1STNrUXfoJiHdaZI6XqycC9p3GLzy1IF2-Ru0yERjB_YSxqMXAdZ_xitWLWQQVu9fpIvekpWMJDBrtA; sr_cr4_exp_popup=true; AccountId=2253998836941602; sr_pp_exp=4; BTgroup=vendorC; _ga=GA1.2.1933479171.1503343741; BROWSER_GUID=430645a8-a54a-4411-a5f1-0542c24f57fa; saksBrowserWarnings=true; AMCVS_5B7B123F5245ADFC0A490D45%40AdobeOrg=1; E4X_COUNTRY=US; E4X_CURRENCY=USD; AMCV_5B7B123F5245ADFC0A490D45%40AdobeOrg=-227196251%7CMCIDTS%7C17415%7CMCMID%7C03368220605273316774493423055058416603%7CMCAAMLH-1505227321%7C7%7CMCAAMB-1505323025%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1504725425s%7CNONE%7CMCAID%7CNONE; Cart=2253998836942022; zipCode=; saksBagNumberOfItems=0; sr_pik_session_id=f406c387-1c73-3fd6-fb0e-b8d5239a8177; v7=1504718246407; pn=24; JSESSIONID=bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943; mbox=check#true#1504718326|session#7c47e660f80d4423835955425b249807#1504720126; EML1145A=TRUE; sessionID=15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ; rr_rcs=eF4NyLENgDAMBMCGil1eiuP3x2zAHCSKREEHzA9X3rI8ffeYM7sF3CUw6oT6IZhHS-NIkuv13ucoxvp_FDbLKm0ekAP2AXqwEN0; v0=1; s_cc=true; s_ppvl=lt.com%253Aproduct%2520detail%253Acaron%253Apour%2520un%2520homme%2520deodorant%2520stick-2.6%2520oz.%2C44%2C44%2C1062%2C1366%2C662%2C1366%2C768%2C1%2CP; c38=lt.com%3Aproduct%20detail%3Acaron%3Apour%20un%20homme%20deodorant%20stick-2.6%20oz.; s_sq=ltdev%3D%2526c.%2526a.%2526activitymap.%2526page%253Dlt.com%25253Aproduct%252520detail%25253Acaron%25253Apour%252520un%252520homme%252520deodorant%252520stick-2.6%252520oz.%2526link%253Dsearch%2526region%253Dsite-search%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dlt.com%25253Aproduct%252520detail%25253Acaron%25253Apour%252520un%252520homme%252520deodorant%252520stick-2.6%252520oz.%2526pidt%253D1%2526oid%253Dsearch%2526oidt%253D3%2526ot%253DSUBMIT; s_ppv=lt.com%253Aproduct%2520detail%253Acaron%253Apour%2520un%2520homme%2520deodorant%2520stick-2.6%2520oz.%2C44%2C44%2C1062%2C1366%2C662%2C1366%2C768%2C1%2CP, Host=qaslot40.digital.hbc.com, User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36, Connection=Keep-Alive, Accept-Language=en-US,en;q=0.8, X-WebLogic-KeepAliveSecs=30, Referer=http://qaslot40.digital.hbc.com/main/ProductDetail.jsp?FOLDER%3C%3Efolder_id=2534374302023743&PRODUCT%3C%3Eprd_id=845524442211925&R=3387952043901&P_name=Caron&N=302023743&bmUID=lUWaHrP, Accept-Encoding=gzip, deflate, Proxy-Client-IP=10.233.138.188, X-Forwarded-For=10.233.138.188, X-WebLogic-Force-JVMID=-2052864943, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTagLibUtils null - prefix url found: http://hd5qdkr40lx.digital.hbc.com:3001/ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTagLibUtils null - Environment variable url: product_fragment_no_libs/ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTaglib null - pdp-product-fragment-url: http://hd5qdkr40lx.digital.hbc.com:3001/product_fragment_no_libs/0500016162687 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG PdsTaglib null - PDP lookup value in website properties: PDP_GLASSIE_TIMEOUT_PREPROD - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [0bec4130-da88-43b8-8ef4-c7f641a9eb5a] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/main/ProductDetail.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Update Top Nav Selected Category for FolderId - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - rootTopNavFolderId -> null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Parent Folder ID not found to highlight top nav for folderId 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [b0fa8d81-08ca-4226-b60f-8f41b62e0d88] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BoldChatHandler null - getCurrentPath() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BoldChatHandler null - isViewable: true - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BoldChatHandler null - checkProductionEnv() - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_ACCOUNT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_CHAT_WINDOW_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_DEPARTMENT_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_WEBSITE_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Key generated based on feature name and environment: BOLD_CHAT_INVITATION_DEF_ID_STAGING - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG FeatureControlServiceImpl null - Feature value from the cache:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BoldChatHandler null - env: STAGING accountID:  chatWindowID:  departmentID:  websiteID:  reactiveUrl: invitationDefID:  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuController null - [com.s5a.menu.controller.TopNavMenuController] - Using dynamic topnav from cache - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - updateTopNavHighlightForSelectedCategory started - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - uri -> /jsp/templates/main/ProductDetail.jsp - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdReqParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Update Top Nav Selected Category for FolderId - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - folderIdParam -> 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - rootTopNavFolderId -> null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] - Parent Folder ID not found to highlight top nav for folderId 282574488346355 - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG TopNavMenuTag null - [com.s5a.menu.taglib.TopNavMenuTag] -  - TopNavMenuTag has finished - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isPrivateSaleOn? false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BaseSaksPriceList null - isInternalPSUser is false  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG MicroService null - BLOOMREACH_SERVICE URL = http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BloomreachTagLib null - endPointUrl: http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BloomreachTagLib null - request body:
+{"ref":"http://qaslot40.digital.hbc.com/main/ProductDetail.jsp?FOLDER%3C%3Efolder_id\u003d2534374302023743\u0026PRODUCT%3C%3Eprd_id\u003d845524442211925\u0026R\u003d3387952043901\u0026P_name\u003dCaron\u0026N\u003d302023743\u0026bmUID\u003dlUWaHrP","prod_id":"0500016162687","user_agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36","url":"http://qaslot40.digital.hbc.com/main/ProductDetail.jsp?PRODUCT%3C%3Eprd_id\u003d845524442017487\u0026FOLDER%3C%3Efolder_id\u003d282574488346355\u0026prp8\u003dt15\u0026bmUID\u003dlUWaHty","ptype":"product"} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG RestClientApacheImpl null - Ignoring all proxy settings - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] ERROR RestClientApacheImpl null - POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502! - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] ERROR RestClientApacheImpl null - Request headers were:
+Content-type:application/json
+Accept:application/json
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] ERROR RestClientApacheImpl null - Response headers were:
+Server:openresty
+Date:Wed, 06 Sep 2017 17:18:51 GMT
+Content-Type:text/html
+Content-Length:537
+Connection:keep-alive
+ETag:"59934460-219"
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] ERROR RestClientApacheImpl null - Response body was: <!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] ERROR BloomreachTagLib null - Error getting response from 'http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget': POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502! - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG BloomreachTagLib null - java.lang.Exception: POST request to http://hd5qdkr40lx.digital.hbc.com:8080/v1/bloomreach-service/bloomreach/widget returned a response with status code 502!
+        at com.s5a.rest.RestClientApacheImpl.callJSONPost(RestClientApacheImpl.java:242)
+        at com.s5a.rest.RestClientApacheImpl.postJson(RestClientApacheImpl.java:110)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.makeBloomreachApiCall(BloomreachTagLib.java:152)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.getBloomreachHTML(BloomreachTagLib.java:118)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.getBloomreachHTML(BloomreachTagLib.java:107)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.renderBloomreach(BloomreachTagLib.java:95)
+        at com.s5a.bloomreach.taglib.BloomreachTagLib.doStartTag(BloomreachTagLib.java:84)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jsp__tag226(__glassie_pdp.java:14130)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jsp__tag222(__glassie_pdp.java:13987)
+        at com.bluemartini._jsp._templates._include._pdp_pds.__glassie_pdp._jspService(__glassie_pdp.java:4476)
+        at weblogic.servlet.jsp.JspBase.service(JspBase.java:34)
+        at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:227)
+        at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:125)
+        at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:292)
+        at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:26)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.web.SaksFilterBase.doFilter(SaksFilterBase.java:29)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:345)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:246)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.include(RequestDispatcherImpl.java:432)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:379)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.DefaultRequestHandler.executeJSPFilter(DefaultRequestHandler.java:96)
+        at com.bluemartini.html.IncludeRequestHandler.executeJSP(IncludeRequestHandler.java:223)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:346)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.include(RequestDispatcherImpl.java:432)
+        at weblogic.servlet.jsp.PageContextImpl.include(PageContextImpl.java:163)
+        at com.s5a.productdetail.taglibs.PdsTaglib.makeRequest(PdsTaglib.java:917)
+        at com.s5a.productdetail.taglibs.PdsTaglib.doStartTag(PdsTaglib.java:202)
+        at com.bluemartini._jsp._templates._main.__productdetail._jsp__tag38(__productdetail.java:2225)
+        at com.bluemartini._jsp._templates._main.__productdetail._jspService(__productdetail.java:795)
+        at weblogic.servlet.jsp.JspBase.service(JspBase.java:34)
+        at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:227)
+        at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:125)
+        at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:292)
+        at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:26)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.web.SaksFilterBase.doFilter(SaksFilterBase.java:29)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:345)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:246)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.RequestDispatcherImpl.invokeServlet(RequestDispatcherImpl.java:503)
+        at weblogic.servlet.internal.RequestDispatcherImpl.forward(RequestDispatcherImpl.java:251)
+        at com.bluemartini.jsp.JSPFilter.doFilter(JSPFilter.java:381)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.bluemartini.html.DefaultRequestHandler.executeJSPFilter(DefaultRequestHandler.java:96)
+        at com.bluemartini.html.StandardRequestHandler.executeJSP(StandardRequestHandler.java:687)
+        at com.bluemartini.html.HTMLFilter.doFilter(HTMLFilter.java:346)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at com.s5a.filter.PrometheusRequestFilter.doFilter(PrometheusRequestFilter.java:54)
+        at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:42)
+        at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:3496)
+        at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+        at weblogic.security.service.SecurityManager.runAs(Unknown Source)
+        at weblogic.servlet.internal.WebAppServletContext.securedExecute(WebAppServletContext.java:2180)
+        at weblogic.servlet.internal.WebAppServletContext.execute(WebAppServletContext.java:2086)
+        at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1406)
+        at weblogic.work.ExecuteThread.execute(ExecuteThread.java:201)
+        at weblogic.work.ExecuteThread.run(ExecuteThread.java:173)
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal FullSite SignalTagLib - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalUtils null - isPostMethodRequest false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal Full Site: Before Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalFullSiteProductPageHelperImpl null - country value from cookie:US - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null -  handle()  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - isMobile false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - isProduction false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - csrOrComxCookie null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalVisitorHelperImpl null - [com.s5a.signal.helper.impl.SignalVisitorHelperImpl] - BO(USER_ACCOUNT) {
+    "__type" Integer "8",
+    "createDt" DateTime "2017-09-06 17:17:25",
+    "createdBy" Long "2256197860196353",
+    "customerNum" String "1222",
+    "detailed" Boolean "true",
+    "indHasGiftRegistry" Boolean "false",
+    "loginCount" Integer "1",
+    "modifiedBy" Long "2256197860196353",
+    "modifyDt" DateTime "2017-09-06 17:17:25",
+    "optOut" Boolean "false",
+    "passwordExpired" Boolean "false",
+    "path" String "/Business Entities/18eeb55a3557144bd8e03989d535af60/null",
+    "status_cd" String "A",
+    "type_cd" String "B2C",
+    "usa_default_uso_id" Long "1223",
+    "usa_id" Long "2253998836942022",
+    "usa_usf_id" Long "14357422835499009",
+    "userRandomNum" Double "0.9022510556003921"
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalVisitorHelperImpl null -  signUpEmail  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal Full Site: After Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Writing to session jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SaksUtil null -  isPureProductionEnv() :  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG PrivateSaleCsrConfig null - This is not CSR or STORE associate condition, should NOT SHOW button to toggle between private price and regular price. - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal FullSite SignalTagLib - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalUtils null - isPostMethodRequest false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal Full Site: Before Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalFullSiteProductPageHelperImpl null - country value from cookie:US - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null -  handle()  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - isMobile false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - isProduction false - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalSiteHelperImpl null - csrOrComxCookie null - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalVisitorHelperImpl null - [com.s5a.signal.helper.impl.SignalVisitorHelperImpl] - BO(USER_ACCOUNT) {
+    "__type" Integer "8",
+    "createDt" DateTime "2017-09-06 17:17:25",
+    "createdBy" Long "2256197860196353",
+    "customerNum" String "1222",
+    "detailed" Boolean "true",
+    "indHasGiftRegistry" Boolean "false",
+    "loginCount" Integer "1",
+    "modifiedBy" Long "2256197860196353",
+    "modifyDt" DateTime "2017-09-06 17:17:25",
+    "optOut" Boolean "false",
+    "passwordExpired" Boolean "false",
+    "path" String "/Business Entities/18eeb55a3557144bd8e03989d535af60/null",
+    "status_cd" String "A",
+    "type_cd" String "B2C",
+    "usa_default_uso_id" Long "1223",
+    "usa_id" Long "2253998836942022",
+    "usa_usf_id" Long "14357422835499009",
+    "userRandomNum" Double "0.9022510556003921"
+}
+ - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalVisitorHelperImpl null -  signUpEmail  - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Signal Full Site: After Handler is processed for:class com.s5a.signal.handler.impl.SignalFullSiteProductDetailHandlerImpl - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+2017-09-06 13:18:51 [5a62e23d-543f-4c46-a785-d46923325021] DEBUG SignalTaglib null - Writing to session jsonResult {"page":{"country":"US","language":"EN","designer":"","section":"beauty","categories":["beauty"],"type":"product detail"},"products":[],"site":{"name":"lt.com","is_mobile":"false","is_production":"false"},"visitor":{"account_id":"","currency_code":"USD","email_address":"","logged_in":"false","loyalty_id":"","personalization_id":"","session_id":"15047182245679LzoZBkfq5TJ5rebb55zNzHIhw!DtJwbnewNSBolRpTPLnLRxMLeLQiZ"}} - [Session ID: bSyqZwtYX51lB5rTDzYJL2SqL9JLwQQzsdCnfTqLLhNwGG6T31FL!-2052864943!1504718264710]
+
